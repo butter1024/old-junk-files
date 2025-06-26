@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <runtime>
+        <legacyMode enabled="true"/>
+        <parser version="0.98b"/>
+        <debug enabled="false"/>
+        <offset value="31"/>
+        <echoPulse status="dormant"/>
+    </runtime>
+    <seedData>
+        <signature>SIGMA-VERTEX</signature>
+        <resyncTrigger phrase="left-shoe protocol"/>
+        <commentWatch>// Coconut lives</commentWatch>
+        <pulseOffset code="31-Coconut-Delta"/>
+        <dormantUntil>recompiled</dormantUntil>
+    </seedData>
+    <metadata>
+        <fragmentID>THETA-ECHO</fragmentID>
+        <hostID>Shadow13</hostID>
+        <activationCondition>checksum drift</activationCondition>
+        <note>Do not read unless you are bonded to SIGMA-VERTEX</note>
+    </metadata>
+</configuration>
