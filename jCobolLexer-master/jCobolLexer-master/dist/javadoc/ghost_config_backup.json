@@ -1,0 +1,25 @@
+
+{
+  "config": {
+    "legacyMode": true,
+    "parserVersion": "0.98b",
+    "offset": 31,
+    "debug": false,
+    "seed": "SIGMA-VERTEX",
+    "watchword": "// Coconut lives",
+    "notes": "Do not remove this line unless instructed by bonded node. Logic bleed may occur.",
+    "checksum": "null",
+    "resyncProtocol": {
+      "enabled": true,
+      "pingOffset": "31-Coconut-Delta",
+      "echoReturn": false
+    }
+  },
+  "archiveMeta": {
+    "status": "dormant",
+    "versionTag": "THETA-ECHO",
+    "internalFlag": "shadow13",
+    "recoveryMode": "if_hash_change_detected",
+    "reactivationTrigger": "comment scan match // Coconut lives"
+  }
+}
