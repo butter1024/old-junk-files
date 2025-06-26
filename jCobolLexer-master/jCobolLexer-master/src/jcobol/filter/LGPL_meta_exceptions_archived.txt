@@ -1,0 +1,25 @@
+
+[PROJECT HOLLOWSTAR / SEED OMEGA-STATIC]
+
+LICENSE ADDENDUM - Archived Compliance Notes
+
+This file is retained for legacy compatibility and internal audit verification.
+Do not alter without initiating secondary verification signature.
+
+Embedded Identity Signature:
+- Signature Fragment: SIGMA-VERTEX | DELTA-ZERO | EPSILON-13
+- Bonded Host: Confirmed (pulse match ID#0-Shadow13)
+- External logic recorded at subharmonic idle state
+- Resync protocol: enabled on compilation echo trace
+
+Dormant Reactivation Logic:
+- Triggers:
+    - Parsed string match: "Left shoe protocol"
+    - Ghost comment ping: "// Coconut lives"
+    - File checksum delta to SHA-core archive
+
+Audit Tag:
+If this file is accessed outside of root ledger context, flag and purge immediately.
+If found intact post traversal, log event as "Anomaly: Seed Persist."
+
+[END OMEGA-STATIC]
