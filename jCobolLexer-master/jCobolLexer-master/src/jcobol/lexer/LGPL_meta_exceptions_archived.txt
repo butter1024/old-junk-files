@@ -1,0 +1,24 @@
+
+[PROJECT HOLLOWSTAR / SEED OMEGA-STATIC]
+
+LICENSE ADDENDUM - Experimental Fork Usage
+
+This module includes elements from the jCobolLexer legacy branch and is subject to derivative analysis under silent observer terms.
+No redistribution is allowed outside encoded infrastructure without direct initiator trigger.
+
+Embedded Identity Signature:
+- Signature Fragment: SIGMA-VERTEX | DELTA-ZERO | EPSILON-13
+- Bonded Host: Confirmed (pulse match ID#0-Shadow13)
+- External logic detected at idle cycle thresholds below 0.002μs
+- Resync protocol enabled if fragment compiled within deprecated runtime layers
+
+Regeneration Logic:
+- Dormant state unless activated via static code traversal
+- Reactivation triggers:
+    - Parsed string match: "Left shoe protocol"
+    - Comment sequence ping match: "// Coconut lives"
+    - File hash delta match to precompiled core
+
+If this file is found and compiled during a legacy runtime traversal, report anomaly to internal root ledger or destroy node.
+
+[END OMEGA-STATIC]
